@@ -1,0 +1,5 @@
+name: SpookySounds
+main: ch.toothwit.spookysounds.main.SpookySounds
+version: 0.1
+author: Houston9000
+description: Ambience Plugin for Halloween
